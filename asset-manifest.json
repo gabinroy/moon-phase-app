@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/moon-phase-app/static/css/main.e6c13ad2.css",
+    "main.js": "/moon-phase-app/static/js/main.87b870c8.js",
+    "static/js/453.03f68ef3.chunk.js": "/moon-phase-app/static/js/453.03f68ef3.chunk.js",
+    "index.html": "/moon-phase-app/index.html",
+    "main.e6c13ad2.css.map": "/moon-phase-app/static/css/main.e6c13ad2.css.map",
+    "main.87b870c8.js.map": "/moon-phase-app/static/js/main.87b870c8.js.map",
+    "453.03f68ef3.chunk.js.map": "/moon-phase-app/static/js/453.03f68ef3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.87b870c8.js"
+  ]
+}
